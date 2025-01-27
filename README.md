@@ -1,2 +1,1 @@
-# sample_website
-my first html website
+First html project
