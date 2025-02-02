@@ -6,7 +6,20 @@
  .nav-spacing {
     margin: 0 0 0 10px;
     color: blue;
-    text-decoration: none;
-  
+    text-decoration: none
    
   }
+
+  .book-cover1{
+    float: left; margin: 0 40px 0 0;
+  }
+  .first-span{
+              font-family: normal;
+              font-size: 24px;
+              font-weight: bold;
+              color: #ff0000;
+  }
+  .mobydick-blockqoute{
+    font-style: italic; font-size: 20px;
+  }
+ 
